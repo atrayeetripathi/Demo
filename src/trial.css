@@ -1,0 +1,20 @@
+.container {
+    padding: 100;
+    width: 200; 
+    height: 100%;
+    background-color: 'powderblue';
+    justify-content: "center";
+    align-items: "center";
+    flex-grow: 1,
+  }
+
+  /* .innerContainer {
+    display: block;
+    margin: 50;
+    padding: 100;
+    background-color: darkgreen;
+  } */
+  
+  .shownInlineBlock {
+    display: inline-block;
+  }
